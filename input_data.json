@@ -1,0 +1,47 @@
+[ 
+{ 
+"student_id": 101, 
+"name": "Aarav Sharma", 
+"gender": "Male", 
+"department": "Computer Science", 
+"year": 2, 
+"marks": 85, 
+"email": "aarav.sharma@example.com" 
+}, 
+{ 
+"student_id": 102, 
+"name": "Priya Reddy", 
+"gender": "Female", 
+"department": "Information Technology", 
+"year": 3, 
+"marks": 78, 
+"email": "priya.reddy@example.com" 
+}, 
+{ 
+"student_id": 103, 
+"name": "Karthik Rao", 
+"gender": "Male", 
+"department": "Data Science", 
+"year": 1, 
+"marks": 92, 
+"email": "karthik.rao@example.com"
+}, 
+{ 
+"student_id": 104, 
+"name": "Sneha Patel", 
+"gender": "Female", 
+"department": "Computer Science", 
+"year": 4, 
+"marks": 88, 
+"email": "sneha.patel@example.com" 
+}, 
+{ 
+"student_id": 105, 
+"name": "Rohit Verma", 
+"gender": "Male", 
+"department": "Artificial Intelligence", 
+"year": 2, 
+"marks": 74, 
+"email": "rohit.verma@example.com" 
+} 
+] 
